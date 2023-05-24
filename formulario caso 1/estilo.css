@@ -1,0 +1,21 @@
+*{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    margin: 4px;
+}
+body{
+    background-color: antiquewhite;
+    padding: 15px;
+}
+#sech{
+    display: flex;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+}
+*{
+    margin: 5px;
+    color: brown;
+}
